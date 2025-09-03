@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.WEbForm", "CRUD.WEbForm\CRUD.WEbForm.csproj", "{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.EntityLayer", "CRUD.EntityLayer\CRUD.EntityLayer.csproj", "{0EEE38E8-9628-4BA0-9538-8E83F5B30C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD.DataLayer", "CRUD.DataLayer\CRUD.DataLayer.csproj", "{882A4D18-2814-4F6A-9C72-7254DD2563B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEE38E8-9628-4BA0-9538-8E83F5B30C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEE38E8-9628-4BA0-9538-8E83F5B30C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEE38E8-9628-4BA0-9538-8E83F5B30C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEE38E8-9628-4BA0-9538-8E83F5B30C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882A4D18-2814-4F6A-9C72-7254DD2563B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882A4D18-2814-4F6A-9C72-7254DD2563B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882A4D18-2814-4F6A-9C72-7254DD2563B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882A4D18-2814-4F6A-9C72-7254DD2563B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
