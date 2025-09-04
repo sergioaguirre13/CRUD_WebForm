@@ -1,0 +1,6 @@
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

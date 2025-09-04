@@ -246,6 +246,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD.BusinessLayer\CRUD.BusinessLayer.csproj">
+      <Project>{8a6ace16-bfa2-4f26-b5e3-c0784eba5aa6}</Project>
+      <Name>CRUD.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRUD.EntityLayer\CRUD.EntityLayer.csproj">
+      <Project>{0eee38e8-9628-4ba0-9538-8e83f5b30c7e}</Project>
+      <Name>CRUD.EntityLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

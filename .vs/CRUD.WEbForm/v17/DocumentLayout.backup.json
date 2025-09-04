@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A6ACE16-BFA2-4F26-B5E3-C0784EBA5AA6}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|c:\\users\\sergio-laptop\\desktop\\crud_webform\\crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A6ACE16-BFA2-4F26-B5E3-C0784EBA5AA6}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|solutionrelative:crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}|CRUD.WEbForm\\CRUD.WEbForm.csproj|c:\\users\\sergio-laptop\\desktop\\crud_webform\\crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B0E775D9-2AB5-4BB6-A09A-096A83E9FF4E}|CRUD.WEbForm\\CRUD.WEbForm.csproj|solutionrelative:crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartamentoBL.cs",
-              "DocumentMoniker": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "RelativeDocumentMoniker": "CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "ToolTip": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "RelativeToolTip": "CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:20:14.637Z",
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.WEbForm\\Default.aspx",
+              "RelativeDocumentMoniker": "CRUD.WEbForm\\Default.aspx",
+              "ToolTip": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.WEbForm\\Default.aspx",
+              "RelativeToolTip": "CRUD.WEbForm\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-04T16:06:17.347Z",
               "EditorCaption": ""
             }
           ]
