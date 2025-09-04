@@ -30,11 +30,13 @@ namespace CRUD.DataLayer
                             lista.Add(new Departamento
                             {
                                 idDepartamento = Convert.ToInt32(dr["idDepartamento"].ToString()),
-                                //nombre
+                                Nombre = dr["Nombre"].ToString()
                             });
 
                         }
                     }
+
+                    return lista;
                 }
                 catch (Exception ex)
                 {

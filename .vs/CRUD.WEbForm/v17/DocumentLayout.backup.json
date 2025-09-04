@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sergio\\Desktop\\CRUD_WebForm\\",
+  "WorkspaceRootPath": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{882A4D18-2814-4F6A-9C72-7254DD2563B4}|CRUD.DataLayer\\CRUD.DataLayer.csproj|c:\\users\\sergio\\desktop\\crud_webform\\crud.datalayer\\departamentodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882A4D18-2814-4F6A-9C72-7254DD2563B4}|CRUD.DataLayer\\CRUD.DataLayer.csproj|solutionrelative:crud.datalayer\\departamentodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882A4D18-2814-4F6A-9C72-7254DD2563B4}|CRUD.DataLayer\\CRUD.DataLayer.csproj|c:\\users\\sergio\\desktop\\crud_webform\\crud.datalayer\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882A4D18-2814-4F6A-9C72-7254DD2563B4}|CRUD.DataLayer\\CRUD.DataLayer.csproj|solutionrelative:crud.datalayer\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A6ACE16-BFA2-4F26-B5E3-C0784EBA5AA6}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|c:\\users\\sergio-laptop\\desktop\\crud_webform\\crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6ACE16-BFA2-4F26-B5E3-C0784EBA5AA6}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|solutionrelative:crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartamentoDL.cs",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\CRUD_WebForm\\CRUD.DataLayer\\DepartamentoDL.cs",
-              "RelativeDocumentMoniker": "CRUD.DataLayer\\DepartamentoDL.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\CRUD_WebForm\\CRUD.DataLayer\\DepartamentoDL.cs",
-              "RelativeToolTip": "CRUD.DataLayer\\DepartamentoDL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Title": "DepartamentoBL.cs",
+              "DocumentMoniker": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.BusinessLayer\\DepartamentoBL.cs",
+              "RelativeDocumentMoniker": "CRUD.BusinessLayer\\DepartamentoBL.cs",
+              "ToolTip": "C:\\Users\\sergio-laptop\\Desktop\\CRUD_WebForm\\CRUD.BusinessLayer\\DepartamentoBL.cs",
+              "RelativeToolTip": "CRUD.BusinessLayer\\DepartamentoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T19:26:55.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\CRUD_WebForm\\CRUD.DataLayer\\Conexion.cs",
-              "RelativeDocumentMoniker": "CRUD.DataLayer\\Conexion.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\CRUD_WebForm\\CRUD.DataLayer\\Conexion.cs",
-              "RelativeToolTip": "CRUD.DataLayer\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T19:24:31.745Z",
+              "WhenOpened": "2025-09-04T14:20:14.637Z",
               "EditorCaption": ""
             }
           ]
