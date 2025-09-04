@@ -7,3 +7,12 @@ C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLa
 C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.Dat.DD8C681B.Up2Date
 C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
 C:\Users\sergio-laptop\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.AssemblyReference.cache
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.Dat.DD8C681B.Up2Date
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
+C:\Users\sergio\Desktop\CRUD_WebForm\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb
