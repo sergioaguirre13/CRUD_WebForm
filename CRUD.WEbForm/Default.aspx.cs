@@ -40,5 +40,19 @@ namespace CRUD.WEbForm
 
             Response.Redirect($"~/Contact.aspx?idEmpleado={idEmpleado}");
         }
+
+        protected void Eliminar_Click(Object sender, EventArgs e)
+        {
+            LinkButton btn = (LinkButton)sender;
+            string idEmpleado = btn.CommandArgument;
+
+
+            bool respuesta = empleadoBL.Eliminar(Convert.ToInt32(idEmpleado));
+
+            if (respuesta)
+            {
+                MostrarEmpleados();
+            }
+        }
     }
 }
